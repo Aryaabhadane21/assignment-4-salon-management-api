@@ -252,3 +252,6 @@ PORT=3000
 Import `Salon_Management_API.postman_collection.json` into Postman to test all endpoints.
 - Collection variables: `baseUrl`, `token`, `salonId`, `serviceId`.
 - Authorization is configured as Bearer Token using `{{token}}`.
+
+
+Deployment Link: https://restaurant-management-api-h5qs.onrender.com/
